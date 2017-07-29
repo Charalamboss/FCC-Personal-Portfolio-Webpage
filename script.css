@@ -1,0 +1,66 @@
+body{background-color: #8b0da0;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: -webkit-box;
+    margin-left:2%;
+    
+}
+
+
+li{
+	margin-right: 5%;
+	background-color: #e0e0d1;
+}
+
+a img{
+	
+	height: 75px;
+}
+
+.Education{
+	margin-top: 3%;
+	
+}
+
+.Contact{
+	
+	background-color: ;
+}
+.Project .thumbnail{
+	height: 450px;
+}
+
+.Education .thumbnail{
+	height: 450px;
+}
+.Contact .thumbnail a>img {
+	max-height: 67px;
+}
+.nav{
+	margin: 1%;
+	
+	text-align: center;
+	padding-left:2%;
+}
+.nav a{
+	margin-left: 3%;
+}
+.head{
+	margin-bottom:3%;
+}
+
+
+.caption p {
+	color: white;
+	font-size:34px;
+}
+.thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: 65%;
+}
